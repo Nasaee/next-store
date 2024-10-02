@@ -1,3 +1,4 @@
+import React from 'react';
 import CartItemsList from '@/components/cart/CartItemsList';
 import CartTotals from '@/components/cart/CartTotals';
 import SectionTitle from '@/components/global/SectionTitle';
